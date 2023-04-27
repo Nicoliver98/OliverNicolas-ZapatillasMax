@@ -9,6 +9,9 @@
 
 
 ## Paleta de colores:
+![Paletadecolores](https://user-images.githubusercontent.com/131212076/234947353-e4925eef-47a8-427b-a569-7314484240dc.png)
+
+
 
 
 
