@@ -4,7 +4,8 @@
 
 
 
-![sneakers_001](https://user-images.githubusercontent.com/131212076/234942760-8e606f3e-b838-4ea1-98c2-db247472eab0.jpg)
+![sneakers_001](https://user-images.githubusercontent.com/131212076/234949683-e32baafa-65f7-402b-b329-708b56aa36d9.jpg)
+
 
 
 
@@ -14,7 +15,6 @@
 
 
 
+## Tipografía:
 
-
-
-
+https://fonts.google.com/specimen/Ysabeau
